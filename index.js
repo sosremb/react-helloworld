@@ -17,6 +17,7 @@ class App extends Component {
         <Hello name={this.state.name} />
         <p>
           Start editing to see some magic happen :)
+          hmm... lets see!
         </p>
       </div>
     );
